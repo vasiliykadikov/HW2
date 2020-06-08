@@ -53,7 +53,3 @@ int Book::getyear() const {
     return Year;
 };
 
-/*std::string Book::operator =(std::string name) {
-    (*this).Name = name;
-    return name;
-}*/
